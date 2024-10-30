@@ -17,7 +17,7 @@
     <PARAM>
       <PARAM_NAME>Značka</PARAM_NAME>
       <VAL>S9</VAL>
-      <PARAM_NAME>Pracovní výkon/PARAM_NAME>
+      <PARAM_NAME>Pracovní výkon</PARAM_NAME>
       <VAL>28W</VAL>
       <PARAM_NAME>Sací výkon</PARAM_NAME>
       <VAL>3500PA</VAL>
@@ -35,8 +35,8 @@
       <DELIVERY_PRICE_COD>Free</DELIVERY_PRICE_COD>
     </DELIVERY>
     <EXTENDED_WARRANTY>
-        <VAL>24</VAL>
-        <DESC>Záruka na 24 měsíců</DESC>
+      <VAL>24</VAL>
+      <DESC>Záruka na 24 měsíců</DESC>
     </EXTENDED_WARRANTY>
   </SHOPITEM>
 </SHOP>
