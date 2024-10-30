@@ -17,18 +17,8 @@
     <PARAM>
       <PARAM_NAME>Značka</PARAM_NAME>
       <VAL>S9</VAL>
-      <PARAM_NAME>Pracovní výkon</PARAM_NAME>
-      <VAL>28W</VAL>
-      <PARAM_NAME>Sací výkon</PARAM_NAME>
-      <VAL>3500PA</VAL>
-      <PARAM_NAME>Navigace</PARAM_NAME>
-      <VAL>Vizuální navigace + Gyroskopická navigace</VAL>
-      <PARAM_NAME>Kapacita baterie</PARAM_NAME>
-      <VAL>2600mAh</VAL>
     </PARAM>
-    <DELIVERY_DATE>50</DELIVERY_DATE>
     <DELIVERY_DATE>5</DELIVERY_DATE>
-    <DELIVERY_DATE>2024-10-30</DELIVERY_DATE>
     <DELIVERY>
       <DELIVERY_ID>DHL</DELIVERY_ID>
       <DELIVERY_PRICE>Free</DELIVERY_PRICE>
